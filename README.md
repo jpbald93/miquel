@@ -132,7 +132,7 @@ Feuerbach, Miquel, Brahmagupta and Malfatti in Lean 4* (J. Bald, in preparation)
   title        = {Miquel's theorem in Lean 4},
   year         = {2026},
   howpublished = {\url{https://github.com/jpbald93/miquel}},
-  note         = {Lean 4 + Mathlib v4.33.1. Commit: COMMIT_PLACEHOLDER}
+  note         = {Lean 4 + Mathlib v4.33.1. Commit: 401de13c0c4e51f67f87f7252f147048084c4a01}
 }
 ```
 
