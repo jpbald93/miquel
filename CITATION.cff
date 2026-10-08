@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it, and the accompanying paper, as below."
+title: "Miquel's theorem in Lean 4"
+type: software
+authors:
+  - family-names: Bald
+    given-names: Josh
+    email: jpbald93@gmail.com
+    affiliation: "Independent researcher, Ontario, Canada"
+    orcid: "https://orcid.org/0009-0002-1317-6489"
+license: Apache-2.0
+repository-code: "https://github.com/jpbald93/miquel"
+commit: 401de13c0c4e51f67f87f7252f147048084c4a01
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - Euclidean geometry
+preferred-citation:
+  type: article
+  title: "The Malfatti circles in Lean 4, with independent certificate proofs of Feuerbach, Miquel and Brahmagupta"
+  authors:
+    - family-names: Bald
+      given-names: Josh
+      orcid: "https://orcid.org/0009-0002-1317-6489"
+  year: 2026
+  status: preprint
